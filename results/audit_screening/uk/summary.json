@@ -1,0 +1,23 @@
+{
+  "study": "uk",
+  "confirmatory": false,
+  "sesoi_pp": 3.0,
+  "draws": 200,
+  "boot": 100,
+  "seed": 20260918,
+  "F3": {
+    "evaluable": true,
+    "accuracy_mean": 0.821738107571441,
+    "accuracy_lo95": 0.0,
+    "abstention_mean": 0.9192708333333333,
+    "difference_mean": 0.018818557985224648,
+    "difference_lo95": -0.21615384615384609,
+    "supported": false
+  },
+  "F4": {
+    "ba_minus_loss_regret_pp": -0.48341212499999997,
+    "lo95": -1.75468125,
+    "hi95": 0.34025187500000004,
+    "supported": false
+  }
+}

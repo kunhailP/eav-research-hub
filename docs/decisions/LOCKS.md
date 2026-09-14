@@ -75,3 +75,14 @@
 
 <!-- lock {"name": "decision-map-19", "utc": "2026-09-14T12:04:49+00:00", "files": {"docs/19_decision_map.md": "0bff947290f050c74d3cac8b555bfb2975ef90032be2169390e1acef97509a0c"}} -->
 
+## prereg-audit-f2 · 2026-09-14T12:10:41+00:00
+
+- `docs/20_prereg_audit_screening_draft.md` sha256 `919dd6361bf5734c933a42f8f7442e05c5c247ed04184165c38f123388c96a12`
+- `src/eav/audit_screening.py` sha256 `23d05904e77823e5283387c1f045b5ae3080a57e2ce19b8cc6aa256906b405b9`
+- `tests/test_audit_screening.py` sha256 `27a4b3005a31fc24d6d336672abd11266a2e6ed1cae0409dca10f0b3768b8ca6`
+- `v3/run_audit_screening.py` sha256 `272792893e023fc8c34aa1c24836241e4b366c4058038c1cebc51ea917d7f11d`
+- `results/audit_screening/uk/summary.json` sha256 `ceef83512a9158f09b7057826111974a7d07e53db1e1c706c8d46287224f9829`
+- `results/audit_screening/uk/screening.csv` sha256 `c5b05c9ecf97112c5a3df3b4dd86acef3fcd08e2664b5e8afcce7af3f1415539`
+
+<!-- lock {"name": "prereg-audit-f2", "utc": "2026-09-14T12:10:41+00:00", "files": {"docs/20_prereg_audit_screening_draft.md": "919dd6361bf5734c933a42f8f7442e05c5c247ed04184165c38f123388c96a12", "src/eav/audit_screening.py": "23d05904e77823e5283387c1f045b5ae3080a57e2ce19b8cc6aa256906b405b9", "tests/test_audit_screening.py": "27a4b3005a31fc24d6d336672abd11266a2e6ed1cae0409dca10f0b3768b8ca6", "v3/run_audit_screening.py": "272792893e023fc8c34aa1c24836241e4b366c4058038c1cebc51ea917d7f11d", "results/audit_screening/uk/summary.json": "ceef83512a9158f09b7057826111974a7d07e53db1e1c706c8d46287224f9829", "results/audit_screening/uk/screening.csv": "c5b05c9ecf97112c5a3df3b4dd86acef3fcd08e2664b5e8afcce7af3f1415539"}} -->
+

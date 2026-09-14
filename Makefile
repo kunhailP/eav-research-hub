@@ -8,7 +8,7 @@ test:
 	$(PY) -m pytest -q
 
 locks:
-	for n in prereg-v3-uk prereg-v3-pimpo prereg-benoit-e prereg-audit-f; do $(PY) v3/lock.py --check $$n || exit 1; done
+	for n in prereg-v3-uk prereg-v3-pimpo prereg-benoit-e prereg-audit-f decision-map-19 prereg-audit-f2; do $(PY) v3/lock.py --check $$n || exit 1; done
 
 uk:            # UK confirmatory run (labels with vLLM, then analysis)
 	bash v3/run_full_uk.sh
