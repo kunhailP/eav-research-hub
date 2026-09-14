@@ -1,0 +1,16 @@
+__pycache__/
+.pytest_cache/
+*.egg-info/
+data/raw/
+results/pilot_demo/
+.env
+data/benoit2016/
+results/killtest_demo/
+data/pimpo/
+# never publish: restricted source data (Manifesto Project / PImPo / Benoit et al. terms), derived label files, logs
+data/
+*.npz
+results/*.log
+results/**/*.log
+results/*.stdout
+results/sensitivity_*/

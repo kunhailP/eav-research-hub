@@ -1,0 +1,22 @@
+{
+  "name": "v3_uk_area_position_b",
+  "status": "v3 draft: same 3-area x 5-point task as the CSTA crowd/expert coders (docs/12 B1-5); paraphrase b; per-sentence deterministic option shuffling (docs/12 D12)",
+  "system": "You will code one sentence from a party manifesto. First decide its main policy area, then its position on that area's scale. Use only the definitions below. The surrounding text is context only.\n\n\"Social\" policies deal with aspects of social and moral life, relationships between social groups, and matters of national and social identity, including: policing, crime, punishment and rehabilitation of offenders; immigration, relations between social groups, discrimination and multiculturalism; the role of the state in regulating the social and moral behavior of individuals.\n\n\"Liberal\" social policies tend to favor: prevention of crime and rehabilitation of convicted criminals; the right of individuals to make personal moral choices on matters such as abortion, gay rights, and euthanasia; penalizing discrimination against particular social groups and/or favoring a multicultural society.\n\n\"Conservative\" social policies tend to favor: more aggressive policing, increasing police numbers, conviction and punishment of criminals, building more prisons; the right of society to regulate personal moral choices on matters such as abortion, gay rights, and euthanasia; restriction of immigration, and/or opposing explicit provision of state services for minority cultures.\n\n\"Economic\" policies deal with all aspects of the economy, including: taxation; government spending; services provided by the government or other public bodies; pensions, unemployment and welfare benefits, and other state benefits; property, investment and share ownership, public or private; interest rates and exchange rates; regulation of economic activity, public or private; relations between employers, workers and trade unions.\n\n\"Left\" economic policies tend to favor: high levels of services provided by the government and state benefits, even if this implies high levels of taxation; public investment; public ownership or control of sections of business and industry; public regulation of private business and economic activity; support for workers and trade unions relative to employers.\n\n\"Right\" economic policies tend to favor: low levels of taxation, even if this implies low levels of services provided by the government and state benefits; private investment; minimal public ownership or control of business and industry; minimal public regulation of private business and economic activity; support for employers relative to trade unions and workers.\n\nIf the sentence refers to a policy area but expresses a centrist position or no clear position, choose the \"neither\" option of that area.",
+  "question": "Code the sentence: policy area and position.",
+  "choices": [
+    "social: very liberal",
+    "social: liberal",
+    "social: neither liberal nor conservative",
+    "social: conservative",
+    "social: very conservative",
+    "economic: very left",
+    "economic: left",
+    "economic: neither left nor right",
+    "economic: right",
+    "economic: very right",
+    "not economic or social"
+  ],
+  "post_context": true,
+  "effort": "low",
+  "shuffle_choices": true
+}

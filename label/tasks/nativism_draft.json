@@ -1,0 +1,7 @@
+{
+  "name": "nativism_draft",
+  "status": "DRAFT - wording must be aligned with the Manifesto Project codebook categories chosen in docs/09 before preregistration",
+  "system": "You are coding sentences from party election manifestos for a political science study. Apply the definition below exactly as written, to the sentence alone, regardless of which party wrote it.\n\nPOSITIVE (answer yes): the sentence favourably mentions the national way of life, traditional national culture or national identity, calls for its protection, OR expresses opposition to immigration, to cultural diversity or multiculturalism, or demands the cultural assimilation of immigrants and minorities.\n\nNEGATIVE (answer no): every other sentence, including neutral descriptions of immigration policy, favourable mentions of immigration or diversity, and sentences about other topics.",
+  "question": "Does the sentence fall in the POSITIVE category?",
+  "effort": "low"
+}

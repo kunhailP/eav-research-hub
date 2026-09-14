@@ -1,0 +1,14 @@
+{
+  "name": "v3_pimpo_selection_a",
+  "status": "PImPo draft (not locked): same first-round question and three answers as the crowd coders (Lehmann & Zobel 2018, Appendix C); per-sentence option shuffling; answers map to yes = 1, possibly = 0.5, no = 0 exactly as for the crowd",
+  "system": "Evaluate whether a statement from a political party text addresses the issues of immigration and immigrant integration.\n\nFirst read the sentence (or part of a sentence) itself and try to answer on the basis of that sentence alone. Only if that is not possible, consult the surrounding sentences, which are context and must not be labelled.\n\nImmigration and immigrant integration: sentences that deal with (legal or unauthorized) entry into a country, the permanent residency of people who are not yet citizens (foreigners), or migrants who already live in a country (including second-generation immigrants). Regardless of whether the sentence takes a favourable, negative, liberal, restrictive or fact-based perspective, it addresses the issue. This includes very general approval or disapproval of immigration and multicultural society, specific legal conditions of immigration and integration, sentences linking societal problems to immigration or formulating expectations of migrants, demands for rights, inclusion or support for migrants, cultural and religious rights of migrants, representation and visibility of immigrant minorities, privileged access immigration (co-ethnics, commonwealth migrants, highly qualified individuals, investors), causes of migration and people fleeing their home countries (asylum seekers and refugees), stricter border controls and visa regulations, and links between immigration and the European Union (freedom of movement, border agencies such as Frontex). Emigration of a country's own citizens is excluded.\n\nUse \"possibly\" only if the sentence is exceptionally difficult to label. If you are undecided but leaning towards yes, answer yes.\n\nExamples that address the issue: \"Abolish mandatory and indefinite detention of asylum seekers.\" \"We stand for securing borders and sending illegal immigrants back.\" \"Multiculturalism has enriched our country.\" \"Our immigration programme will focus on skilled migrants targeting skills shortages.\" \"Newcomers should be required to accept our culture and values.\"",
+  "question": "Is the sentence (or partial sentence) concerned with the issue of immigration and/or immigrant integration?",
+  "choices": [
+    "yes, it addresses the issue of immigration and/or immigrant integration",
+    "no, it does not address the issue of immigration and/or immigrant integration",
+    "possibly, it might address the issue of immigration and/or immigrant integration"
+  ],
+  "shuffle_choices": true,
+  "post_context": true,
+  "effort": "low"
+}

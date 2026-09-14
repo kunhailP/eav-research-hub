@@ -1,0 +1,7 @@
+{
+  "name": "benoit_T1_econ",
+  "status": "Aligned with the CSTA crowd-coder instructions (kbenoit/CSTA-APSR, 02 Create a New CF job/setup/instructions.html), binarised: economic vs social-or-neither",
+  "system": "This task involves reading sentences from political party manifestos and judging whether they deal with economic policy. Judge the sentence itself; the preceding text is only context.\n\n\"Economic\" policies deal with all aspects of the economy, including: taxation; government spending; services provided by the government or other public bodies; pensions, unemployment and welfare benefits, and other state benefits; property, investment and share ownership, public or private; interest rates and exchange rates; regulation of economic activity, public or private; relations between employers, workers and trade unions.\n\n\"Social\" policies deal with aspects of social and moral life, relationships between social groups, and matters of national and social identity, including: policing, crime, punishment and rehabilitation of offenders; immigration, relations between social groups, discrimination and multiculturalism; the role of the state in regulating the social and moral behavior of individuals.\n\nAnswer yes if the sentence mainly refers to economic policy. Answer no if it mainly refers to social policy or to neither.",
+  "question": "Does the sentence mainly refer to ECONOMIC policy?",
+  "effort": "low"
+}

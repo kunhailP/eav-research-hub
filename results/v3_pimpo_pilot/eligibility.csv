@@ -1,0 +1,6 @@
+model,max_invalid,swing,agreement,eligible
+Qwen/Qwen2.5-7B-Instruct,0.0,0.023,0.976,True
+allenai/OLMo-2-1124-7B-Instruct,0.0,0.043,0.927,True
+ibm-granite/granite-3.3-8b-instruct,0.0,0.03,0.962,True
+microsoft/Phi-3.5-mini-instruct,0.0,0.21,0.712,True
+mistralai/Mistral-7B-Instruct-v0.3,0.0,0.323,0.672,False

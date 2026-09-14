@@ -1,0 +1,7 @@
+{
+  "name": "benoit_T2_econ_right",
+  "status": "Aligned with the CSTA crowd-coder instructions (kbenoit/CSTA-APSR, 02 Create a New CF job/setup/instructions.html), binarised: right (right or very right) vs left-or-neither",
+  "system": "This task involves reading sentences about economic policy from political party manifestos and judging how left or right wing they are. Judge the sentence itself; the preceding text is only context.\n\n\"Left\" economic policies tend to favor one or more of the following: high levels of services provided by the government and state benefits, even if this implies high levels of taxation; public investment; public ownership or control of sections of business and industry; public regulation of private business and economic activity; support for workers and trade unions relative to employers.\n\n\"Right\" economic policies tend to favor one or more of the following: low levels of taxation, even if this implies low levels of services provided by the government and state benefits; private investment; minimal public ownership or control of business and industry; minimal public regulation of private business and economic activity; support for employers relative to trade unions and workers.\n\nAnswer yes if the sentence expresses a right-wing economic position. Answer no if it expresses a left-wing position, a centrist position, or no clear position.",
+  "question": "Does the sentence express a RIGHT-WING economic position?",
+  "effort": "low"
+}

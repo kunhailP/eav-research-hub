@@ -1,0 +1,16 @@
+model,paraphrase,n,invalid,yes,possibly,no,max_invalid_by_language
+Qwen/Qwen2.5-7B-Instruct,a,300,0.0,0.037,0.023,0.94,0.0
+allenai/OLMo-2-1124-7B-Instruct,a,300,0.0,0.1,0.02,0.88,0.0
+ibm-granite/granite-3.3-8b-instruct,a,300,0.0,0.07,0.01,0.92,0.0
+microsoft/Phi-3.5-mini-instruct,a,300,0.0,0.07,0.5,0.43,0.0
+mistralai/Mistral-7B-Instruct-v0.3,a,300,0.0,0.06,0.203,0.737,0.0
+Qwen/Qwen2.5-7B-Instruct,b,300,0.0,0.033,0.01,0.957,0.0
+allenai/OLMo-2-1124-7B-Instruct,b,300,0.0,0.083,0.003,0.913,0.0
+ibm-granite/granite-3.3-8b-instruct,b,300,0.0,0.063,0.003,0.933,0.0
+microsoft/Phi-3.5-mini-instruct,b,300,0.0,0.097,0.29,0.613,0.0
+mistralai/Mistral-7B-Instruct-v0.3,b,300,0.0,0.057,0.12,0.823,0.0
+Qwen/Qwen2.5-7B-Instruct,c,300,0.0,0.03,0.007,0.963,0.0
+allenai/OLMo-2-1124-7B-Instruct,c,300,0.0,0.077,0.0,0.923,0.0
+ibm-granite/granite-3.3-8b-instruct,c,300,0.0,0.047,0.003,0.95,0.0
+microsoft/Phi-3.5-mini-instruct,c,300,0.0,0.137,0.387,0.477,0.0
+mistralai/Mistral-7B-Instruct-v0.3,c,300,0.0,0.153,0.347,0.5,0.0
