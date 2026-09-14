@@ -28,7 +28,7 @@
 | 잠금 | 시각 (UTC) | 사전등록 | 상태 |
 |---|---|---|---|
 | `prereg-v3-uk` | 2026-09-14 05:50 | [docs/13](docs/13_prereg_v3_draft.md) | 결과 [docs/15](docs/15_uk_results_interpretation.md) |
-| `prereg-v3-pimpo` | 2026-09-14 09:09 | [docs/14](docs/14_prereg_pimpo_draft.md) | 결과 [docs/22](docs/22_pimpo_results_interpretation.md) (잠재계층 포함 민감도 실행 중) |
+| `prereg-v3-pimpo` | 2026-09-14 09:09 | [docs/14](docs/14_prereg_pimpo_draft.md) | 결과 [docs/22](docs/22_pimpo_results_interpretation.md) |
 | `prereg-benoit-e` | 2026-09-14 10:38 | [docs/16](docs/16_prereg_benoit_e_draft.md) | 결과 [docs/17](docs/17_benoit_e_results_interpretation.md) |
 | `prereg-audit-f` | 2026-09-14 11:19 | [docs/18](docs/18_prereg_audit_forecast_draft.md) | PImPo 확증: 지지 안 됨 ([docs/22 §5](docs/22_pimpo_results_interpretation.md)) |
 | `decision-map-19` | 2026-09-14 12:04 | [docs/19](docs/19_decision_map.md) | 결과 → 결론 → 투고처 지도 (PImPo 결과 전) |
@@ -71,7 +71,7 @@ API 키는 저장소 밖(`~/.config/manifesto/api_key`)에 두고, 스크립트�
 | [00_assessment](docs/00_assessment.md) · [01_positioning](docs/01_positioning.md) | 평가, 문헌 지도와 차별점 (§3b) |
 | [02_theory](docs/02_theory.md) · [03_eav_method](docs/03_eav_method.md) | error regression(P0)과 명제, 감사 절차 |
 | [09](docs/09_ajps_substantive_design.md) · [11](docs/11_ajps_case_and_engagement.md) | AJPS 설계, Benoit et al. (2026)과의 관계·어조 규칙 |
-| [12_red_team](docs/12_red_team.md) | 자체 점검, 검토자 반론, **개발·일탈 기록 D1–D45** |
+| [12_red_team](docs/12_red_team.md) | 자체 점검, 검토자 반론, **개발·일탈 기록 D1–D46** |
 | [13](docs/13_prereg_v3_draft.md) · [14](docs/14_prereg_pimpo_draft.md) · [16](docs/16_prereg_benoit_e_draft.md) · [18](docs/18_prereg_audit_forecast_draft.md) · [20](docs/20_prereg_audit_screening_draft.md) | 사전등록 (잠김) |
 | [19_decision_map](docs/19_decision_map.md) | 결과 → 결론 → 투고처 지도, "검증을 통과한 모델" 정의, AJPS 최소 조건 (PImPo 결과 전 잠김) |
 | [21_mechanism_design_memo](docs/21_mechanism_design_memo.md) | 사전등록 G(모델 크기 × 정당 단서) 설계 메모 |
