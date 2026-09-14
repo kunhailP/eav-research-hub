@@ -1,0 +1,5 @@
+model,stat,median_estimate,conclusion
+Qwen/Qwen2.5-7B-Instruct,delta_pp:1,-0.401,equivalent
+allenai/OLMo-2-1124-7B-Instruct,delta_pp:1,0.3366,inconclusive
+ibm-granite/granite-3.3-8b-instruct,delta_pp:1,1.1876,inconclusive
+microsoft/Phi-3.5-mini-instruct,delta_pp:1,2.3681,inconclusive

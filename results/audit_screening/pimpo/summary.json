@@ -1,0 +1,23 @@
+{
+  "study": "pimpo",
+  "confirmatory": true,
+  "sesoi_pp": 1.0,
+  "draws": 200,
+  "boot": 100,
+  "seed": 20260918,
+  "F3": {
+    "evaluable": true,
+    "accuracy_mean": 0.8246666666666667,
+    "accuracy_lo95": 0.0,
+    "abstention_mean": 0.8716666666666667,
+    "difference_mean": 0.6400666666666667,
+    "difference_lo95": -1.0,
+    "supported": false
+  },
+  "F4": {
+    "ba_minus_loss_regret_pp": 0.8203125,
+    "lo95": -0.7866,
+    "hi95": 3.3550999999999997,
+    "supported": false
+  }
+}
