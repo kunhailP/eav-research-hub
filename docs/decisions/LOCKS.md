@@ -69,3 +69,9 @@
 
 <!-- lock {"name": "prereg-audit-f", "utc": "2026-09-14T11:19:05+00:00", "files": {"docs/18_prereg_audit_forecast_draft.md": "4dc339322a39a366a81aae25d6eff6e3b180b885eb723960042e94c9729d0d2f", "src/eav/audit_forecast.py": "3b69340272c5a9787c6bb3c161070670eaac801225d2a69c37f535b1c2dd6aec", "tests/test_audit_forecast.py": "ae6f6459d49b361ec58cd94c03149050370be4644715ccfd0ee7e98bc28b7e33", "tests/test_run_audit_forecast.py": "a1711e1680eb80b521a6c55fa8fac1a1d38be587ed42e2bec11e0caca51cea95", "v3/run_audit_forecast.py": "5e9d1f5f73bd2502af520780ed5828243bd7eb8b8e0a2c7fcb4a76ec7b7e3a2a", "results/audit_forecast/uk/summary.json": "30088ba3e7de5818b5b7866b0bec21e3e04a9c92799f48a3033e2509b2840f93", "results/audit_forecast/uk/rules.csv": "13a020143b8cb9c20fcbd65a35a773c4b06763617ad53370f963e4664e6de4ff"}} -->
 
+## decision-map-19 · 2026-09-14T12:04:49+00:00
+
+- `docs/19_decision_map.md` sha256 `0bff947290f050c74d3cac8b555bfb2975ef90032be2169390e1acef97509a0c`
+
+<!-- lock {"name": "decision-map-19", "utc": "2026-09-14T12:04:49+00:00", "files": {"docs/19_decision_map.md": "0bff947290f050c74d3cac8b555bfb2975ef90032be2169390e1acef97509a0c"}} -->
+
