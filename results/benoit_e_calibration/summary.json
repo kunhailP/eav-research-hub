@@ -1,0 +1,27 @@
+{
+  "reps": 25,
+  "B": 300,
+  "S": 300,
+  "shift_sd": 0.5,
+  "icc": 0.3,
+  "contrasts_per_world": 11,
+  "primary_false_non_equivalent_cells": {
+    "invariant": 2,
+    "invariant_lam_low": 4
+  },
+  "rule_false_diverging_cells": {
+    "invariant": 1,
+    "invariant_lam_low": 0
+  },
+  "rule_worlds_with_any_false_divergence": {
+    "invariant": 1,
+    "invariant_lam_low": 0
+  },
+  "rule_power_shifted": {
+    "shift_family": 0.152,
+    "shift_east": 0.8533333333333334
+  },
+  "rule_divergence_in_unshifted_contrasts_of_shift_worlds": 0,
+  "rule_equivalent_rate_invariant": 0.38545454545454544,
+  "primary_coverage0_95_invariant": 0.8909090909090909
+}

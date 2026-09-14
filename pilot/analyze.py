@@ -1,3 +1,4 @@
+# ARCHIVED: v2 pilot analysis, superseded by the v3 runners in v3/ (ADR-0011). Kept for `make pilot-demo`.
 """Pilot v0 analysis (docs/04_pilot_prereg.md). Task-agnostic.
 
 Inputs

@@ -1,0 +1,11 @@
+{
+  "diverging_contrasts": [],
+  "equivalent_contrasts": [
+    "social:EAST-WEST"
+  ],
+  "comparative_conclusions_diverge": false,
+  "lock": "prereg-benoit-e",
+  "B": 500,
+  "S": 500,
+  "seed": 20260916
+}

@@ -1,3 +1,4 @@
+# ARCHIVED: v1/v2 kill-test statistics, superseded by src/eav/v3.py (docs/12 A, ADR-0011). Kept because tests import it.
 """Two-week kill test: do LLMs mis-measure some languages / party families more than others?
 
 docs/09_ajps_substantive_design.md §4. Task-agnostic.

@@ -1,0 +1,12 @@
+contrast,n_pos,n,min_D,max_D,n_nonequiv
+decentralization:EAST-WEST,7,14,-0.3063,0.3551,0
+environment:EAST-WEST,14,14,0.1207,0.4409,1
+environment:ECO-SD,14,14,0.0381,0.8649,4
+eu:EAST-WEST,3,14,-0.3145,0.0358,1
+immigration:EAST-WEST,12,14,-0.0713,0.2256,0
+immigration:RR-CD,13,14,-0.042,0.3843,0
+immigration:RR-CON,12,14,-0.0934,0.3844,0
+social:EAST-WEST,10,14,-0.1012,0.2102,0
+social:RR-LIB,13,14,-0.008,0.2143,0
+taxspend:EAST-WEST,13,14,-0.0084,0.2704,1
+taxspend:SOC-CON,1,14,-0.3116,0.0334,0

@@ -1,0 +1,20 @@
+{
+  "study": "uk",
+  "confirmatory": false,
+  "sesoi_pp": 3.0,
+  "draws": 200,
+  "seed": 20260917,
+  "F1": {
+    "evaluable": true,
+    "difference_mean": 0.12261111111111112,
+    "lo95": -0.07819444444444444,
+    "hi95": 0.2725000000000001,
+    "supported": false
+  },
+  "F2": {
+    "ba_minus_audit_regret_pp": -0.800491375,
+    "lo95": -2.1336899999999996,
+    "hi95": 0.38507312499999996,
+    "supported": false
+  }
+}

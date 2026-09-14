@@ -1,0 +1,17 @@
+area,model,stat,conclusion,sign,median_estimate,paraphrases_outside_human_range
+economic,Qwen/Qwen2.5-7B-Instruct,delta_pp:1,inconclusive,0,2.0905,0
+economic,Qwen/Qwen2.5-7B-Instruct,delta_pp:2,inconclusive,0,-0.493,0
+economic,ibm-granite/granite-3.3-8b-instruct,delta_pp:1,inconclusive,0,2.3605,0
+economic,ibm-granite/granite-3.3-8b-instruct,delta_pp:2,inconclusive,0,0.6399,0
+economic,microsoft/Phi-3.5-mini-instruct,delta_pp:1,inconclusive,0,3.6188,0
+economic,microsoft/Phi-3.5-mini-instruct,delta_pp:2,inconclusive,0,2.6269,0
+economic,mistralai/Mistral-7B-Instruct-v0.3,delta_pp:1,non-equivalent,1,5.1812,1
+economic,mistralai/Mistral-7B-Instruct-v0.3,delta_pp:2,inconclusive,0,1.7355,0
+social,Qwen/Qwen2.5-7B-Instruct,delta_pp:1,inconclusive,0,-3.0121,1
+social,Qwen/Qwen2.5-7B-Instruct,delta_pp:2,inconclusive,0,0.6358,0
+social,ibm-granite/granite-3.3-8b-instruct,delta_pp:1,inconclusive,0,-5.3289,3
+social,ibm-granite/granite-3.3-8b-instruct,delta_pp:2,inconclusive,0,-0.1131,0
+social,microsoft/Phi-3.5-mini-instruct,delta_pp:1,non-equivalent,-1,-5.5474,3
+social,microsoft/Phi-3.5-mini-instruct,delta_pp:2,inconclusive,0,-0.2781,0
+social,mistralai/Mistral-7B-Instruct-v0.3,delta_pp:1,non-equivalent,-1,-6.9703,3
+social,mistralai/Mistral-7B-Instruct-v0.3,delta_pp:2,inconclusive,0,-1.1982,0

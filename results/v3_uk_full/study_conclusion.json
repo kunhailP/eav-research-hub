@@ -1,0 +1,8 @@
+{
+  "H1_supported": true,
+  "non_equivalent_models_by_area_stat_sign": {
+    "economic|delta_pp:1|+1": 1,
+    "social|delta_pp:1|-1": 2
+  },
+  "note": "recomputed from model_conclusions.csv with the locked rule (deviation D30)"
+}

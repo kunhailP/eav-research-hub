@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# ARCHIVED: buggy process matching (docs/12 D32); replaced by v3/orchestrate_background_v2.sh. Do not run.
 # Background orchestration (operational only; runs the locked commands, changes no locked file).
 #  1. UK: when run_full_uk.sh ends, build results/v3_uk_full/REPORT.md.
 #  2. PImPo: once the primary analysis of run_full_pimpo.sh is running, stop the parent shell (the
